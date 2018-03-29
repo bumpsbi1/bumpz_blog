@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "Find ways new ways to read"
 date: 2018-03-28 11:10:30 -07:00
 categories: development update

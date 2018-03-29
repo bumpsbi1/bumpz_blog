@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "Diving into developement"
 date: 2018-03-27 11:04:30 -07:00
 categories: development update
